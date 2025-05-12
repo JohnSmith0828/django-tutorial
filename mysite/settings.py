@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'polls.apps.PollsConfig', 
     'api.apps.ApiConfig', 
     'snippets.apps.SnippetsConfig', 
+    'myapp.apps.MyappConfig', 
     'debug_toolbar', 
     # 'django_polls.apps.PollsConfig', 
     # 'corsheaders?', 
